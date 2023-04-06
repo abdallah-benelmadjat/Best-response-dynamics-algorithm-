@@ -3,3 +3,5 @@ Code for the best/better-response dynamics algorithm showing the convergence of 
 This is part of homework
 
 Click on main.m to view code
+
+Click on alternate.m to view the second code
